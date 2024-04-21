@@ -33,5 +33,5 @@ docker run \
     --tmpfs /tmp \
     -v /home/bob:/mnt/bob:ro \
     -d \
-    ghcr.io/fred-drake/proxmox-backup-client:latest
+    fdrake/proxmox-backup-client:latest
 ```
